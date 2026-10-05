@@ -1,0 +1,6 @@
+{
+  "name": "OnThiTuDo - Ôn Thi Tốt Nghiệp THPT Văn · Sử · Địa",
+  "description": "Nền tảng EdTech chuyên biệt dành cho thí sinh tự do ôn thi tốt nghiệp THPT theo Chương trình GDPT 2018. Học đúng kiến thức, luyện đúng dạng, phân tích điểm yếu và cá nhân hóa lộ trình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

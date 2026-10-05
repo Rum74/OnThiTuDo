@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "usr_candidate_01",
+    "email": "thissinh@onthitudo.vn",
+    "passwordHash": "$2b$10$MB51vKIKWSZElFYQtPzgXO.e5ZhV7bVQl6qjOoLs54uQks/lavYPe",
+    "fullName": "Thí sinh Minh Khang",
+    "candidateType": "THI_SINH_TU_DO",
+    "examYear": 2027,
+    "role": "CANDIDATE",
+    "token": "6ff2655ebf0b5213b90c11ded81e011e07ed3fcffee65a7b2851ba12797c75f4",
+    "createdAt": "2026-10-02T01:44:04.176Z",
+    "updatedAt": "2026-10-02T01:44:16.776Z"
+  },
+  {
+    "_id": "usr_admin_01",
+    "email": "admin@onthitudo.vn",
+    "passwordHash": "$2b$10$MB51vKIKWSZElFYQtPzgXOE9CCqudMbywnrIQ.Zt7/yx3Y69qBHh6",
+    "fullName": "Quản trị viên Hệ thống",
+    "candidateType": "ADMIN",
+    "examYear": 2027,
+    "role": "ADMIN",
+    "token": "",
+    "createdAt": "2026-10-02T01:44:04.177Z",
+    "updatedAt": "2026-10-02T01:44:04.177Z"
+  }
+]
